@@ -1,11 +1,11 @@
-#Sumário Executivo 
+# Sumário Executivo 
 
-##BakerTrack
+## BakerTrack
 **Sistema de Gerenciamneto de Estoque para Padarias**
-##Resumo
+## Resumo
 O sistema será desnvolvido para resolver problemas relacionados ao controloe de estoque de insumos em padarias, automatizando a gestão de entradas e saídas e facilitando a produção contínua sem interrupções  por falta de ingredientes. Ele também permitirá calcular o uso de ingredientes por tipo e pão, otimizar pedidos com fornecedores e reduzir desperdícios.
 
-##Objetivo
+## Objetivo
 Desenvolver uma solução digital para controlar o estoque de insumos utilizados na produção diária de pães, permitindo um gerenciamento eficaz e rápido por parte dos colaboradores.
 
 ## Público-alvo
