@@ -36,3 +36,16 @@
 - **Ator Principal**: Sistema (Automático)
 - **Atores Envolvidos**: Sistema de Fornecedores
 - **Descrição**: Quando o estoque atinge um nível crítico, o sistema envia automaticamente um pedido de compra ao sistema de fornecedores externo.
+
+
+
+```mermaid
+%%{init: {"theme": "default"}}%%
+graph TD;
+    A[Sistema de Gerenciamento de Estoque] --> B[Administrador]
+    A --> C[Funcionário]
+    B --> D[Cadastrar Insumos]
+    B --> E[Gerar Relatórios]
+    C --> F[Registrar Entrada de Ingredientes]
+    C --> G[Registrar Saída de Ingredientes]
+
