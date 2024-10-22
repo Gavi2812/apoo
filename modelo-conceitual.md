@@ -77,7 +77,7 @@
 - **detalhes**: Informações adicionais ou observações sobre o relatório.
 
 
-
+# Modelo Conceitual
 
 
 ```mermaid
