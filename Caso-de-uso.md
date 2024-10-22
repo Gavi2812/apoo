@@ -1,4 +1,4 @@
-# Diagrama de Casos de Uso - Sistema de Gerenciamento de Estoque para Padarias
+# Casos de Uso - Sistema de Gerenciamento de Estoque para Padarias
 
 ## Atores
 
@@ -37,7 +37,7 @@
 - **Atores Envolvidos**: Sistema de Fornecedores
 - **Descrição**: Quando o estoque atinge um nível crítico, o sistema envia automaticamente um pedido de compra ao sistema de fornecedores externo.
 
-
+# Diagrama de Casos de uso
 
 ```mermaid
 %%{init: {"theme": "default"}}%%
