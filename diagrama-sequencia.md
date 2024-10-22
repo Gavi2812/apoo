@@ -1,3 +1,7 @@
+# Diagrama de sequência 
+
+
+
 ```mermaid
 sequenceDiagram
     participant Admin as Administrador
